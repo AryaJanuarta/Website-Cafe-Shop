@@ -16,7 +16,7 @@ Sebuah proyek website fiksi bertema coffee shop dengan suasana fantasi (tavern m
 - Asset khusus seperti logo, ikon, dan font
 
 ## Cara Menjalankan
-1. Clone repositori ini: `git clone https://github.com/Dandy-Adinata/Project-coffe-shop-fantasy.git`
+1. Clone repositori ini: `https://github.com/AryaJanuarta/Website-Cafe-Shop.git`
 2. Buka file `Fantasi.html` di browser
 
 ## Teknologi
