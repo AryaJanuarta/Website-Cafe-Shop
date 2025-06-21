@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Shared smooth scroll for all anchor links
+    // Shared smooth scroll for all 
     document.querySelectorAll('a').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             if (this.getAttribute('href').startsWith('#')) {
