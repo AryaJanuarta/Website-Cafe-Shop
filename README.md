@@ -17,7 +17,7 @@ Sebuah proyek website fiksi bertema coffee shop dengan suasana fantasi (tavern m
 
 ## Cara Menjalankan
 1. Clone repositori ini: `https://github.com/AryaJanuarta/Website-Cafe-Shop.git`
-2. Buka file `Fantasi.html` di browser
+2. Buka file `index.html` di browser
 
 ## Teknologi
 - HTML
@@ -25,6 +25,9 @@ Sebuah proyek website fiksi bertema coffee shop dengan suasana fantasi (tavern m
 - JavaScript
 
 ## Rencana Selanjutnya
-- Tambah animasi interaktif menggunakan JavaScript
-- Tambah sistem pemesanan sederhana
-- Pindah ke framework (misalnya: React)
+- Membuat & melengkapi html (DONE)
+- Membuat file baru bernama fantasi.css (DONE)
+- Membuat dan melengkapi tiap-tiap bagian dengan interaksi yang lancar & animasi menggunakan js (DONE)
+- Menambahkan asset yang telah diperoleh ke tiap-tiap bagian website (DONE)
+- Melakukan pengecekan ulang (DONE)
+                                        
